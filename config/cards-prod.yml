@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Shreyas - Developer"
-    email: "shreyas@eazybank.com"
+    name: "Shalini - Developer"
+    email: "shalinis@eazybank.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
